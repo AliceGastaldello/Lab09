@@ -1,0 +1,5 @@
+Cosa fare:
+
+1.   STRUTTURE DATI: collegare escursioni e punti di interresse in def load_relazioni
+2.   PREPARAZIONE: scegliere solo le escursioni del pacco selezionato in def genera_pacchetto
+3.   RICORSIONE: esplorare le combinazioni in def _ricorsione
